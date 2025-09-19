@@ -7,14 +7,13 @@ The project focuses on **Robotic Process Automation (RPA)** using UiPath, combin
 
 # 📌 Project Structure  
 
-1. **Practice Report (PracticeReport_RO.pdf)**  
-   - Theoretical aspects of RPA, UiPath, Power BI, SQL, Alteryx  
-   - Insights gained during my internship at KPMG Romania  
-   - Documentation written in Romanian (as required by the university)  
-
-2. **UiPath Project (uipath-project/)**  
-   - Automated workflow for extracting DSLR camera data from **eMAG**  
-   - Steps: open browser → search products → extract data (name, rating, price, discount) → filter results → save to Excel  
+📌 Project Structure  
+- **Practice Report (PracticeReport_RO.pdf)**  
+  - Theoretical aspects of RPA, UiPath, Power BI, SQL, Alteryx  
+  - Insights gained during my internship at KPMG Romania   
+  - Includes the description of a UiPath project for data extraction from **eMAG** (DSLR cameras).
+ 
+> ⚠️ Note: The documentation is written in **Romanian**, as required by the university coursework.  
 
 ---
 
