@@ -1,10 +1,12 @@
-🤖 RPA Practice Project  
+# 🤖 RPA Practice Project 
+
 This repository contains my academic **practice project** developed during the 2nd year of my **Bachelor’s degree** in Economic Informatics, while completing my internship at **KPMG Romania**. 
 The project focuses on **Robotic Process Automation (RPA)** using UiPath, combining theoretical knowledge with a small practical workflow.
 
 ---
 
-📌 Project Structure  
+# 📌 Project Structure  
+
 1. **Practice Report (report.pdf)**  
    - Theoretical aspects of RPA, UiPath, Power BI, SQL, Alteryx  
    - Insights gained during my internship at KPMG Romania  
@@ -16,7 +18,8 @@ The project focuses on **Robotic Process Automation (RPA)** using UiPath, combin
 
 ---
 
-🗃️ Technologies Used  
+# 🗃️ Technologies Used  
+
 - UiPath Studio  
 - RPA concepts  
 - SQL  
