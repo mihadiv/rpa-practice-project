@@ -7,7 +7,7 @@ The project focuses on **Robotic Process Automation (RPA)** using UiPath, combin
 
 # 📌 Project Structure  
 
-1. **Practice Report (report.pdf)**  
+1. **Practice Report (PracticeReport_RO.pdf)**  
    - Theoretical aspects of RPA, UiPath, Power BI, SQL, Alteryx  
    - Insights gained during my internship at KPMG Romania  
    - Documentation written in Romanian (as required by the university)  
